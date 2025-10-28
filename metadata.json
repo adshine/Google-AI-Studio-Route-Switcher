@@ -1,0 +1,5 @@
+{
+  "name": "Rapid Page Switcher",
+  "description": "An application designed for developers and designers to instantly switch between different pages of a web application previewed in an iframe, using a quick-access route switcher. This eliminates the need for manual navigation, streamlining the development and design workflow.",
+  "requestFramePermissions": []
+}
